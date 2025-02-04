@@ -4,7 +4,7 @@
 ✅ Adicionar nomes dos participantes
 ✅ Sortear os pares aleatoriamente, garantindo que ninguém tire a si mesmo
 ✅ Exibir os resultados de forma clara e organizada
-✅ Exportar a lista de amigos secretos (opcional)
+
 
 ## 🔧 Tecnologias Utilizadas
 HTML, CSS e JavaScript. 
